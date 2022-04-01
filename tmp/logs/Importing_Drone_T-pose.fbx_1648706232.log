@@ -1,0 +1,259 @@
+[09:57:12.927132] [Import] [info] (th=6496) Log level for 'Import' set to 'info'
+[09:57:12.927214] [Import] [info] (th=6496) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\Enemie_Drone\Export\Drone_T-pose.fbx
+[09:57:12.942293] [Import] [info] (th=6496) Imported scene tree:
+name: "RootNode"
+
+	name: "Circle.033"
+	numMeshes: 2
+	 addr: "0000025A39B32890"
+	 name: "Circle.033"
+	 numVertices: "4747"
+	 numFaces: "4942"
+	
+	 addr: "0000025A6A2C2070"
+	 name: "Circle.033"
+	 numVertices: "50"
+	 numFaces: "48"
+	
+	
+	name: "Armature"
+	
+		name: "Body"
+		
+			name: "turel_L"
+			
+				name: "gun_L"
+				
+			name: "engine_holder_L"
+			
+				name: "engine_L"
+				
+					name: "engine_fire_L"
+					
+			name: "turel_R"
+			
+				name: "gun_R"
+				
+			name: "engine_holder_R"
+			
+				name: "engine_R"
+				
+					name: "engine_fire_R"
+					
+
+[09:57:12.942555] [Import] [info] (th=6496) File loaded successfully
+[09:57:12.942607] [Import] [info] (th=6496) Meshes count: 2
+[09:57:12.942648] [Import] [info] (th=6496) Materials count: 2
+[09:57:12.943604] [Import] [info] (th=6496) Textures count (imported): 3
+[09:59:08.558134] [Import] [info] (th=6496) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\Enemie_Drone\Export\idle.fbx
+[09:59:08.566505] [Import] [info] (th=6496) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Body"
+		
+			name: "turel_L"
+			
+				name: "gun_L"
+				
+			name: "engine_holder_L"
+			
+				name: "engine_L"
+				
+					name: "engine_fire_L"
+					
+			name: "turel_R"
+			
+				name: "gun_R"
+				
+			name: "engine_holder_R"
+			
+				name: "engine_R"
+				
+					name: "engine_fire_R"
+					
+
+[09:59:08.566550] [Import] [info] (th=6496) File loaded successfully
+[09:59:08.566576] [Import] [info] (th=6496) Meshes count: 0
+[09:59:08.566608] [Import] [info] (th=6496) Materials count: 0
+[10:06:52.774791] [Import] [info] (th=6496) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\WheelsBot\Export\MonoWheelBot_T-pose.fbx
+[10:06:52.790085] [Import] [info] (th=6496) Imported scene tree:
+name: "RootNode"
+
+	name: "MonoWheelBot"
+	numMeshes: 1
+	 addr: "0000025A3E0FC340"
+	 name: "SparkBot_Mesh.035"
+	 numVertices: "5565"
+	 numFaces: "5606"
+	
+	
+	name: "MonoWheelBot.001"
+	numMeshes: 1
+	 addr: "0000025A3E0FCDE0"
+	 name: "SparkBot_Mesh.001"
+	 numVertices: "104"
+	 numFaces: "96"
+	
+	
+	name: "MonoWheelBot.003"
+	numMeshes: 1
+	 addr: "0000025A3E0FC890"
+	 name: "SparkBot_Mesh.023"
+	 numVertices: "893"
+	 numFaces: "1014"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "wheel"
+			
+			name: "body"
+			
+				name: "BodyactivePart"
+				
+					name: "head"
+					
+					name: "shoulder_L"
+					
+						name: "arm_L"
+						
+							name: "forearm_L"
+							
+					name: "shoulder_R"
+					
+						name: "arm_R"
+						
+							name: "forearm_R"
+							
+		name: "WheelBase"
+		
+
+[10:06:52.790129] [Import] [info] (th=6496) File loaded successfully
+[10:06:52.790514] [Import] [info] (th=6496) Meshes count: 3
+[10:06:52.790543] [Import] [info] (th=6496) Materials count: 1
+[10:06:52.790992] [Import] [info] (th=6496) Textures count (imported): 2
+[10:11:01.352208] [Import] [info] (th=6496) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\WheelsBot\Export\MonoWheelBot_T-pose.fbx
+[10:11:01.368326] [Import] [info] (th=6496) Imported scene tree:
+name: "RootNode"
+
+	name: "MonoWheelBot"
+	numMeshes: 1
+	 addr: "0000025A3E0FB8A0"
+	 name: "SparkBot_Mesh.035"
+	 numVertices: "5613"
+	 numFaces: "5650"
+	
+	
+	name: "MonoWheelBot.001"
+	numMeshes: 1
+	 addr: "0000025A3E0FBDF0"
+	 name: "SparkBot_Mesh.001"
+	 numVertices: "104"
+	 numFaces: "96"
+	
+	
+	name: "MonoWheelBot.003"
+	numMeshes: 1
+	 addr: "0000025A339F5550"
+	 name: "SparkBot_Mesh.023"
+	 numVertices: "893"
+	 numFaces: "1014"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "wheel"
+			
+			name: "body"
+			
+				name: "BodyactivePart"
+				
+					name: "head"
+					
+					name: "shoulder_L"
+					
+						name: "arm_L"
+						
+							name: "forearm_L"
+							
+					name: "shoulder_R"
+					
+						name: "arm_R"
+						
+							name: "forearm_R"
+							
+		name: "WheelBase"
+		
+
+[10:11:01.368398] [Import] [info] (th=6496) File loaded successfully
+[10:11:01.368439] [Import] [info] (th=6496) Meshes count: 3
+[10:11:01.368470] [Import] [info] (th=6496) Materials count: 1
+[10:11:01.369464] [Import] [info] (th=6496) Textures count (imported): 3
+[10:30:42.767284] [Import] [info] (th=6496) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\Turrel-20220331T053540Z-001\Turrel\Export\Turrel_T-pose.fbx
+[10:30:42.788561] [Import] [info] (th=6496) Imported scene tree:
+name: "RootNode"
+
+	name: "Turrel.000"
+	numMeshes: 2
+	 addr: "0000025AD3B6C5D0"
+	 name: "Cube.005"
+	 numVertices: "5302"
+	 numFaces: "5372"
+	
+	 addr: "0000025AD3B6D070"
+	 name: "Cube.005"
+	 numVertices: "141"
+	 numFaces: "112"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "root_handler"
+			
+				name: "handler"
+				
+					name: "barrel1"
+					
+						name: "fire1"
+						
+					name: "barrel2"
+					
+						name: "fire2"
+						
+
+[10:30:42.789031] [Import] [info] (th=6496) File loaded successfully
+[10:30:42.789063] [Import] [info] (th=6496) Meshes count: 2
+[10:30:42.789095] [Import] [info] (th=6496) Materials count: 2
+[10:30:42.789880] [Import] [info] (th=6496) Textures count (imported): 2
+[10:31:22.226257] [Import] [info] (th=6496) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\Turrel-20220331T053540Z-001\Turrel\Export\shot.fbx
+[10:31:22.243197] [Import] [info] (th=6496) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "root_handler"
+			
+				name: "handler"
+				
+					name: "barrel1"
+					
+						name: "fire1"
+						
+					name: "barrel2"
+					
+						name: "fire2"
+						
+
+[10:31:22.243240] [Import] [info] (th=6496) File loaded successfully
+[10:31:22.243271] [Import] [info] (th=6496) Meshes count: 0
+[10:31:22.243296] [Import] [info] (th=6496) Materials count: 0

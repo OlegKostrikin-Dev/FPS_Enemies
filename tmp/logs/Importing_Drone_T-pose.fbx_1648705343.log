@@ -1,0 +1,47 @@
+[09:42:23.421460] [Import] [info] (th=17620) Log level for 'Import' set to 'info'
+[09:42:23.421823] [Import] [info] (th=17620) Importing from C:\_GrigoriiWorks\MANU\ManuWorks\1st personal shooter\Enemie_Drone\Export\Drone_T-pose.fbx
+[09:42:23.446447] [Import] [info] (th=17620) Imported scene tree:
+name: "RootNode"
+
+	name: "Circle.033"
+	numMeshes: 2
+	 addr: "000002710587E5B0"
+	 name: "Circle.033"
+	 numVertices: "4747"
+	 numFaces: "4942"
+	
+	 addr: "0000027105884000"
+	 name: "Circle.033"
+	 numVertices: "150"
+	 numFaces: "144"
+	
+	
+	name: "Armature"
+	
+		name: "Body"
+		
+			name: "turel_L"
+			
+				name: "gun_L"
+				
+			name: "engine_holder_L"
+			
+				name: "engine_L"
+				
+					name: "engine_fire_L"
+					
+			name: "turel_R"
+			
+				name: "gun_R"
+				
+			name: "engine_holder_R"
+			
+				name: "engine_R"
+				
+					name: "engine_fire_R"
+					
+
+[09:42:23.446485] [Import] [info] (th=17620) File loaded successfully
+[09:42:23.446509] [Import] [info] (th=17620) Meshes count: 2
+[09:42:23.446533] [Import] [info] (th=17620) Materials count: 2
+[09:42:23.448876] [Import] [info] (th=17620) Textures count (imported): 3
